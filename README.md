@@ -1,4 +1,4 @@
-# 🤖 IBM Watson AI Financial Advisor Agent
+# 🤖 IBM Watson AI Financial Advisor with stock predictions Agent
 
 ## 📋 Overview
 
@@ -110,5 +110,6 @@ For technical support:
 - 🤖 Watson AI Documentation: [https://www.ibm.com/watson](https://www.ibm.com/watson)
 
 ---
+
 
 **Note**: This agent is created and runs in IBM Cloud's Agent Lab environment. The notebook code is auto-generated and optimized for the IBM Cloud platform. 
